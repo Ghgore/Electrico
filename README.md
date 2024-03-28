@@ -1,0 +1,5 @@
+This a personal project that came from my electronics hobby and not being able to find a simulator that was both detailed enouh and easy to use, so I decided to build my own program to use in my design process, but when I did have the time to work on electronics and this, I didn't know enough about data structures to get very far in the design, and since I've been in school again I neither have access to my electronics stuff or time to dedicate to development. 
+
+However I still think what I have here is worth sharing. The ultimate plan was to get the backend with the functions that do all the calculations and simulations working first, then I could design various frontends using a REST or similar API.
+
+The only thing here right now is my basic implmentation of Nodes (and LinkedLists) for the backend, but it does hae basic functionality of being able to connect nodes together and the nodes have some basic assignable attributes.

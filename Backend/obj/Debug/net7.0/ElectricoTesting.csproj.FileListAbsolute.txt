@@ -1,0 +1,15 @@
+/Users/ghgore/Projects/ElectricoTesting/bin/Debug/net7.0/ElectricoTesting
+/Users/ghgore/Projects/ElectricoTesting/bin/Debug/net7.0/ElectricoTesting.deps.json
+/Users/ghgore/Projects/ElectricoTesting/bin/Debug/net7.0/ElectricoTesting.runtimeconfig.json
+/Users/ghgore/Projects/ElectricoTesting/bin/Debug/net7.0/ElectricoTesting.dll
+/Users/ghgore/Projects/ElectricoTesting/bin/Debug/net7.0/ElectricoTesting.pdb
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/ElectricoTesting.csproj.AssemblyReference.cache
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/ElectricoTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/ElectricoTesting.AssemblyInfoInputs.cache
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/ElectricoTesting.AssemblyInfo.cs
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/ElectricoTesting.csproj.CoreCompileInputs.cache
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/ElectricoTesting.dll
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/refint/ElectricoTesting.dll
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/ElectricoTesting.pdb
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/ElectricoTesting.genruntimeconfig.cache
+/Users/ghgore/Projects/ElectricoTesting/obj/Debug/net7.0/ref/ElectricoTesting.dll
